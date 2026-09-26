@@ -3,7 +3,7 @@
 <p align="center"><i>Convierto datos económicos y financieros en decisiones.</i></p>
 
 <p align="center">
-  <a href="https://claude.ai/code/artifact/1f2a09a1-9ae0-4b1e-bde4-785353076f38">🌐 Portafolio</a> ·
+  <a href="https://theeconomistgg.github.io">🌐 Portafolio</a> ·
   <a href="https://www.linkedin.com/in/camilo-garzon-rendon-744870378/">💼 LinkedIn</a> ·
   <a href="https://www.fiverr.com/s/lr927Aa">🟢 Fiverr</a>
 </p>
@@ -26,7 +26,7 @@ Economista en formación (Universidad Sergio Arboleda) con **énfasis en finanza
 
 ### 📂 Proyectos destacados
 
-> Los repositorios se irán publicando aquí. Mientras tanto, el detalle está en mi [portafolio](https://claude.ai/code/artifact/1f2a09a1-9ae0-4b1e-bde4-785353076f38).
+> Los repositorios se irán publicando aquí. Mientras tanto, el detalle está en mi [portafolio](https://theeconomistgg.github.io).
 
 **📊 Sistema automatizado de control financiero y rentabilidad** — `Excel · Power BI`
 Sistema multihoja de registro diario con tablero de indicadores en tiempo real (ROI, ahorro, rentabilidad), operable desde el celular por usuarios no técnicos.
